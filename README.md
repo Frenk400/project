@@ -1,7 +1,7 @@
 # project
 [Untitled_Project.zip](https://github.com/user-attachments/files/20175927/Untitled_Project.zip)
 
-<div align="center"><img src="./docs/workflow. png" width="700"><p>AI video generation workflow (schematic diagram needs to be replaced with actual architecture diagram)</p></div>
+<div align="center"><img src="./docs/workflow. png" width="700"><p>AI video generation workflow</p></div>
 
 Build a fully automated video generation system to achieve:
 
